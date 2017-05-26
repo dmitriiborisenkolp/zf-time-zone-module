@@ -1,0 +1,7 @@
+.DS_Store
+*.swp
+/vendor
+/.vagrant
+/nbproject
+/composer.lock
+/.idea
